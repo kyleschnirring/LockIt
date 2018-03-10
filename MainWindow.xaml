@@ -1,0 +1,22 @@
+﻿<Window x:Name="unlockusbButton" x:Class="LockIt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LockIt"
+        mc:Ignorable="d"
+        Title="LockIt by Semtex Security" Height="301" Width="350.739" Icon="lockit.ico" ResizeMode="NoResize" Background="Black">
+    <Grid Margin="0,0,0.5,-1.5">
+        <Button x:Name="appButton" Content="Lock Applications" HorizontalAlignment="Left" Margin="107,29,0,0" VerticalAlignment="Top" Width="205" Height="48" Background="#FF404040" Foreground="White" Click="appButton_Click"/>
+        <Button x:Name="usbButton" Content="Lock USB Ports" HorizontalAlignment="Left" Margin="107,103,0,0" VerticalAlignment="Top" Width="205" Height="48
+                " Background="#FF404040" Foreground="White" Click="usbButton_Click"/>
+        <Button x:Name="wifiButton" Content="Erase Saved WiFi " HorizontalAlignment="Left" Margin="107,178,0,0" VerticalAlignment="Top" Width="205" Height="48" Background="#FF404040" Foreground="White" Click="wifiButton_Click"/>
+        <Image x:Name="appImage" HorizontalAlignment="Left" Height="48" Margin="23,29,0,0" VerticalAlignment="Top" Width="52" Source="Resources/yes.png"/>
+        <Image x:Name="usbImage" HorizontalAlignment="Left" Height="48" Margin="23,103,0,0" VerticalAlignment="Top" Width="52" Source="Resources/no.png"/>
+        <Image x:Name="wifiImage" HorizontalAlignment="Left" Height="48" Margin="23,178,0,0" VerticalAlignment="Top" Width="52" Source="Resources/wifi.png"/>
+        <Button x:Name="unappButton" Content="UnLock Applications" HorizontalAlignment="Left" Margin="107,29,0,0" VerticalAlignment="Top" Width="205" Height="48" Foreground="White" Background="#FF404040" Click="unappButton_Click" Visibility="Hidden"/>
+        <Button x:Name="unlockusbButton1" Content="UnLock USB Ports" HorizontalAlignment="Left" Margin="107,103,0,0" VerticalAlignment="Top" Width="205" Height="48" Foreground="White" Background="#FF404040" Click="unlockusbButton1_Click" Visibility="Hidden"/>
+        <Label x:Name="whatsgoingonLabel" Content="" HorizontalAlignment="Left" Margin="23,231,0,0" VerticalAlignment="Top" Width="289" Foreground="White" FontFamily="Rockwell Extra Bold" HorizontalContentAlignment="Center" Height="33"/>
+
+    </Grid>
+</Window>
