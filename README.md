@@ -9,8 +9,8 @@ LockIt locks down your PC by blocking programs that attackers can use against yo
 
 LockIt locks down the executables by writing registry keys in Windows 10. Currently LockIt blocks execution of 40 plus binaries/executables by simply pressing the "Lock Down Applications" button. Here's the list.
 
-cmd.exe
-powershell.exe
+*cmd.exe
+*powershell.exe
 powershell_ise.exe
 bash.exe
 cscript.exe
