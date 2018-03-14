@@ -59,10 +59,12 @@ AppVLP.exe
 Yes we know this is alot but better safe than sorry. If LockIt interupts the functionality of a specific program no worries you can always unlock the executables by pressing the "Unlock Applications" button.
 
 # Locking down USB ports
+![Screenshot](https://www.semtexsecurity.com/images/usblocked.png)
 
 LockIt can also lock down the USB ports on your computer or laptop protecting you from someone plugging in a malicious USB and running code. This is especially handy since USB sticks can be bought online and configured specifically to grab passwords or data from your machine. Just click the "Lock USB" button and you are good to go.
 
 # Erasing WIFI access points
+![Screenshot](https://www.semtexsecurity.com/images/wifideleted.png)
 
 Your device is always looking for the best connection to connect to the Internet. Now think of all the WIFI hotspots or APs you've connected too, it's probably alot. Attackers can set up rogue WIFI access points to trick your device or laptop into connecting to it. By erasing all these access points it greatly reduces the chances of an attacker tricking your device into connecting to it. Plus Windows 10 stores all WIFI passwords in clear text and can be accessed by anyone that has access to your device or laptop. So if your device does get comprimised attackers will not be able to access this data because you've erased it.
 
