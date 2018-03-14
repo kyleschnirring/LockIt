@@ -6,6 +6,7 @@ LockIt locks down your PC by blocking programs that attackers can use against yo
 [Download LockIt Here](https://github.com/kyleschnirring/LockIt/files/1799756/LockIt.zip)
 
 # How to use LockIt
+Click the image below to watch a quick video on how to use LockIt.
 [![How to use LockIt Beta version](https://img.youtube.com/vi/nNrkT_Equxs/0.jpg)](https://youtu.be/nNrkT_Equxs)
  
 # Locking down Executables
