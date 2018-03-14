@@ -6,6 +6,7 @@ LockIt locks down your PC by blocking programs that attackers can use against yo
 [Download LockIt Here](https://github.com/kyleschnirring/LockIt/files/1799756/LockIt.zip)
  
 # Locking down Executables
+![Screenshot](https://www.semtexsecurity.com/images/appslocked.png)
 
 LockIt locks down the executables by writing registry keys in Windows 10. Currently LockIt blocks execution of 40 plus binaries/executables by simply pressing the "Lock Applications" button. Here's the list.
 
