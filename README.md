@@ -7,7 +7,7 @@ LockIt locks down your PC by blocking programs that attackers can use against yo
 
 # How to use LockIt
 Click the image below to watch a quick video on how to use LockIt.
-[![How to use LockIt Beta version](https://img.youtube.com/vi/nNrkT_Equxs/0.jpg)](https://youtu.be/nNrkT_Equxs)
+[![How to use LockIt Beta version](https://www.semtexsecurity.com/images/videopic.png)](https://youtu.be/nNrkT_Equxs)
  
 # Locking down Executables
 ![Screenshot](https://www.semtexsecurity.com/images/appslocked.png)
