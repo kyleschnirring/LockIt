@@ -74,5 +74,5 @@ Your device is always looking for the best connection to connect to the Internet
 
 # Credits
 
-If you think I did all this research on my own you're nuts. Id like to thank ![@subTee](https://twitter.com/subTee), [@mattifestation](https://twitter.com/mattifestation) and many more for their hard work.
+If you think I did all this research on my own you're nuts. Id like to thank [@subTee](https://twitter.com/subTee), [@mattifestation](https://twitter.com/mattifestation) and many more for their hard work.
 
