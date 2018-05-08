@@ -72,3 +72,7 @@ LockIt can also lock down the USB ports on your computer or laptop protecting yo
 
 Your device is always looking for the best connection to connect to the Internet. Now think of all the WIFI hotspots or APs you've connected too, it's probably alot. Attackers can set up rogue WIFI access points to trick your device or laptop into connecting to it. By erasing all these access points it greatly reduces the chances of an attacker tricking your device into connecting to it. Plus Windows 10 stores all WIFI passwords in clear text and can be accessed by anyone that has access to your device or laptop. So if your device does get comprimised attackers will not be able to access this data because you've erased it.
 
+# Credits
+
+If you think I did all this research on my own you're nuts. Id like to thank ![@subTee](https://twitter.com/subTee), [@mattifestation](https://twitter.com/mattifestation) and many more for their hard work.
+
