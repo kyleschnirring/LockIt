@@ -4,10 +4,6 @@
 LockIt locks down your PC by blocking programs that attackers can use against you. LockIt does not protect you from viruses,malware or ransomeware. Its not an alternative to antivirus, so please use at your own risk. What LockIt attempts to do is greatly reduce the attack surface by blacklisting executables attackers use that come installed by default in Windows 10. LockIt can also lock down the USB ports on your computer or laptop protecting you from someone plugging in a malicious USB and running code. Last but not least LockIt has an option to erase all of the saved WIFI access points that your machine has connected too. This helps prevent your machine from connecting to a rogue access point which attackers frequently set up in order to trick your device into connecting to their malicious network and capturing your data. You must be Admin for LockIt to work correctly and this version is still BETA so please use at your own risk. LockIt is to only be used on Windows 10 and once again LockIt DOES NOT PROTECT YOU FROM VIRUSES OR ANY KIND OF MALWARE so please be careful.
 
 [Download LockIt Here](https://github.com/kyleschnirring/LockIt/files/1799756/LockIt.zip)
-
-# How to use LockIt
-Click the image below to watch a quick video on how to use LockIt.
-[![How to use LockIt Beta version](https://www.semtexsecurity.com/images/videopic.png)](https://youtu.be/nNrkT_Equxs)
  
 # Locking down Executables
 ![Screenshot](https://www.semtexsecurity.com/images/appslocked.png)
